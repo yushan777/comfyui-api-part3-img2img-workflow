@@ -43,7 +43,7 @@ prompt_workflow = json.load(open('workflow_api.json'))
 # ComfyUI/input or use an absolute path if outside ComfyUI main directory. 
 
 # image dir (linux)
-image_dir = os.path.join('/home','johnl','Desktop','img2img_examples')
+image_dir = os.path.join('/home','Y777','Desktop','img2img_examples')
 # for Windows use for example:
 # image_dir = os.path.join('C:\\', 'Users', 'Y777', 'Desktop', 'img2img_examples')
 
